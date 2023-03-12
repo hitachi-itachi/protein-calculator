@@ -130,12 +130,38 @@ table {
 }
 
 h1 {
+    color: rgb(211, 238, 3);
     text-align: center;
     font-family: 'Climate Crisis', cursive, 'Futura', 'Oswald', sans-serif;
-    font-size: 100px
+    font-size: 100px;
+    margin-bottom: 100px;
+}
+
+
+
+p {
+    font-family: 'Ma Shan Zheng', cursive;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    padding: 60px;
 }
 
 body {
-    background-image: url("arnold.jpg");
+
+    background-image: url('arnold.jpg');
     background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100%;
+    background-color: grey;
+    background-blend-mode: multiply;
+
+}
+
+.protein {
+
+    color: aqua;
+    text-align: center;
+    vertical-align: center;
+
 }
