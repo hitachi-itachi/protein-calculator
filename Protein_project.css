@@ -183,3 +183,14 @@ body .panel {
     align-items: center;
     min-height: 100vh;
 }
+
+.panel {
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px 25px;
+    max-width: 960px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    text-transform: uppercase;
+}
