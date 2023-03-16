@@ -169,6 +169,7 @@ body {
 .proteintab img {
     width: 200px;
     height: 200px;
+    padding-top: 10px;
 }
 
 html {
@@ -185,7 +186,6 @@ body .panel {
 }
 
 .panel {
-    background-color: white;
     border-radius: 10px;
     padding: 15px 25px;
     max-width: 960px;
@@ -193,4 +193,39 @@ body .panel {
     flex-direction: column;
     text-align: center;
     text-transform: uppercase;
+}
+
+.pricing-header {
+    color: grey;
+    padding: 15px 15px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.more-info {
+    color: white;
+    padding-bottom: 15px;
+}
+
+.pricing-price {
+    color: yellow;
+    display: block;
+    font-size: 32px;
+    font-weight: 700px;
+    padding-bottom: 30px;
+}
+
+.pricing-feature {
+
+    display: inline-block;
+    border: 5px solid;
+    border-radius: 5%;
+    border-color: rgb(253, 253, 0);
+    padding: 25px 25px;
+    margin: 20px;
+
+}
+
+.pricing-feature:hover {
+    border-color: white;
+    color: white;
 }
