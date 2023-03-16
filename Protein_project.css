@@ -171,6 +171,15 @@ body {
     height: 200px;
 }
 
-.protein {
-    display: flex
+html {
+    box-sizing: border-box;
+    font-family: 'Open Sans', san-serif;
+}
+
+body .panel {
+    background-color: #60a9ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
 }
