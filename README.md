@@ -5,8 +5,13 @@ To let people know how much protein they need to take per day and to let people 
 # Application Code
 Front End: HTML, CSS
 
-#Reactive
+# Responsive
 
 
-https://user-images.githubusercontent.com/64311133/225968840-4902bfd6-565e-45f0-bf0e-3baf20f433ba.mp4
+![Animation](https://user-images.githubusercontent.com/64311133/226077626-0a406367-2ef7-402d-b71a-3665d11280f3.gif)
 
+
+
+# Hover
+
+![Animation](https://user-images.githubusercontent.com/64311133/226076091-4f570e20-0258-429a-b418-35cb9e6c6fa5.gif)
